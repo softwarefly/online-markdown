@@ -71,6 +71,6 @@ public class Test {
 
 ### 链接示例
 
-[@mzlogin](https://github.com/softwarefly)
+[@jfly](https://github.com/softwarefly)
 
 [1]: https://github.com/barretlee/online-markdown
