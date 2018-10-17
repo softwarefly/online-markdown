@@ -10,7 +10,7 @@
 
 ## 问题反馈 & 建议
 
-<https://github.com/mzlogin/online-markdown/issues/new>
+<https://github.com/softwarefly/online-markdown/issues/new>
 
 ## 致谢
 
