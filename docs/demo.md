@@ -1,6 +1,6 @@
 # 微信公众号 Markdown 排版工具
 
-GitHub 地址：<https://github.com/mzlogin/online-markdown>
+GitHub 地址：<https://github.com/softwarefly/online-markdown>
 
 从小胡子哥的 [online-markdown][1] fork 而来。
 
@@ -67,10 +67,10 @@ public class Test {
 
 我的微信公众号
 
-![微信公众号](https://mazhuang.org/assets/images/qrcode.jpg)
+![微信公众号](https://softwarefly.net/assets/images/qrcode.jpg)
 
 ### 链接示例
 
-[@mzlogin](https://github.com/mzlogin)
+[@mzlogin](https://github.com/softwarefly)
 
 [1]: https://github.com/barretlee/online-markdown
